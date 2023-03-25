@@ -10,6 +10,7 @@ Paycheck Protection Program Loan Data from [Kaggle](https://www.kaggle.com/datas
 ## Tools
 
 • Python: pandas, numpy, matplotlib, seaborn, folium, sklearn, statsmodels
+
 • Tableau
 
 ## Results
